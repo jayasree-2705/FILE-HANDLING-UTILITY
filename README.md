@@ -75,3 +75,7 @@ This utility can be used in a wide range of scenarios, including:
 
 ---
 
+## Output :
+
+<img width="1900" height="1003" alt="Image" src="https://github.com/user-attachments/assets/16d573c1-816f-4050-9db0-bd2d5f45998f" />
+
